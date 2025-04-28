@@ -7,7 +7,7 @@ Simple steps to follow:
      - If an issue occurs saying "Java Components missing"
      - Just try adding this by going to dropdown where the main file will run:
           
-     - Select "Edit Configurations" -> Buildand Run File -> Click Modify options and add "Add dependencies with "provided" scope to classpath" ->
+     - Select "Edit Configurations" -> Build and Run File -> Click Modify options and add "Add dependencies with "provided" scope to classpath" ->
        Then lastly add Add VM options and simply add this:
     
        ``` 
